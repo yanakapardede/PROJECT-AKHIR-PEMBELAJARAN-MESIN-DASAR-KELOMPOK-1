@@ -10,10 +10,11 @@ Penelitian dilakukan melalui beberapa tahapan mulai dari preprocessing data, pen
 | 1  | Yanaka Sofia Pardede      | 24031554065 |
 | 2  | Ayu Wulan Anggraeni Putri | 24031554177 |
 | 3  | Annisa Ramadhani          | 24031554206 |
+
 Kelas: **2024B**
 
 ## Dataset
-* Dataset: TikTok 2025 Dataset
+* Dataset: TikTok 2025 Dataset dari https://www.kaggle.com/datasets/haziqhalifi/tiktok-2025-dataset
 * Sumber: Kaggle
 * Jumlah Data: 7.225 konten TikTok
 
