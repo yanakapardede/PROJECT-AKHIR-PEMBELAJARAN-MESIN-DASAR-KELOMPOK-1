@@ -1,9 +1,5 @@
 # Prediksi Viralitas Konten TikTok Menggunakan Machine Learning
 
-## Deskripsi Proyek
-Proyek ini bertujuan untuk memprediksi viralitas konten TikTok berdasarkan data engagement pengguna menggunakan metode Machine Learning. Data yang digunakan berasal dari dataset **TikTok 2025** yang diperoleh dari Kaggle dan terdiri dari informasi seperti *likes, comments, shares,* dan *plays*.
-Penelitian dilakukan melalui beberapa tahapan mulai dari preprocessing data, penanganan ketidakseimbangan kelas menggunakan SMOTE, seleksi fitur menggunakan SelectKBest, hingga pembangunan model klasifikasi menggunakan Support Vector Machine (SVM) dan Multi Layer Perceptron (MLP).
-
 ## Anggota Kelompok 1
 | No | Nama                      | NIM         |
 | -- | ------------------------- | ----------- |
@@ -12,6 +8,10 @@ Penelitian dilakukan melalui beberapa tahapan mulai dari preprocessing data, pen
 | 3  | Annisa Ramadhani          | 24031554206 |
 
 Kelas: **2024B**
+
+## Deskripsi Proyek
+Proyek ini bertujuan untuk memprediksi viralitas konten TikTok berdasarkan data engagement pengguna menggunakan metode Machine Learning. Data yang digunakan berasal dari dataset **TikTok 2025** yang diperoleh dari Kaggle dan terdiri dari informasi seperti *likes, comments, shares,* dan *plays*.
+Penelitian dilakukan melalui beberapa tahapan mulai dari preprocessing data, penanganan ketidakseimbangan kelas menggunakan SMOTE, seleksi fitur menggunakan SelectKBest, hingga pembangunan model klasifikasi menggunakan Support Vector Machine (SVM) dan Multi Layer Perceptron (MLP).
 
 ## Dataset
 * Dataset: TikTok 2025 Dataset dari https://www.kaggle.com/datasets/haziqhalifi/tiktok-2025-dataset
