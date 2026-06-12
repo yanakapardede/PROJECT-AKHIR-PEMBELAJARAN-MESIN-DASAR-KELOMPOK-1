@@ -56,6 +56,7 @@ Kelas: **2024B**
 | 2       | Likes    | 1580.23 |
 | 3       | Shares   |  738.03 |
 | 4       | Comments |  317.73 |
+
 Hasil menunjukkan bahwa fitur **plays** menjadi faktor paling berpengaruh dalam proses klasifikasi viralitas konten TikTok.
 
 ## Hasil Evaluasi Model
@@ -63,6 +64,7 @@ Hasil menunjukkan bahwa fitur **plays** menjadi faktor paling berpengaruh dalam 
 | ----- | -------: | --------: | ------: | -------: |
 | SVM   |   97.92% |    92.61% | 100.00% |   96.16% |
 | MLP   |  100.00% |   100.00% | 100.00% |  100.00% |
+
 Model **MLP** memberikan performa terbaik pada dataset yang digunakan dalam penelitian ini.
 
 ## Kesimpulan
